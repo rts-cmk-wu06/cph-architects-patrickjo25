@@ -1,0 +1,41 @@
+
+h1{
+  background-color: #92b8b7;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 48px;
+  display: flex;
+  padding: 7px;
+  margin-top: -10px;
+  margin-left: -8px;
+  width: 375px;
+  height: 70px;
+  color: #fefefe;
+}
+h2{
+  color: #707070;
+  margin-top: -30px;
+  width: 270px;
+  height: 64px;
+  margin-left: 50px;
+  font-size: 48px;
+  font-family: arial 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1{
+  margin-top: -40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p2{
+ margin-top: 40px;
+ margin-left: 20px;
+ font-size: 13px;
+}
+.fod{
+  height: 237px;
+  width: 375px;
+  background-color: #707070;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: #fefefe;
+}
+
+
